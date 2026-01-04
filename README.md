@@ -99,10 +99,4 @@ Default Unreal meshes or free environment assets can be used.
 - Automatic folder organization
 - Performance warning system
 
----
-
-## Author
-
-Developed as a technical case study for Unreal Engine editor tooling and level optimization.
-
 
